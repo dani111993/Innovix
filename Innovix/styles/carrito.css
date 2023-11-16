@@ -1,0 +1,12 @@
+.carrito {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #total {
+    font-weight: bold;
+  }

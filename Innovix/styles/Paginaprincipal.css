@@ -1,0 +1,105 @@
+header{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    padding: 10px;
+    right: 56px;
+    color:saddlebrown;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand{
+    font-size: 24px;
+    text-decoration: none;
+    color: #333;
+}
+
+main{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:small;
+    color:pink;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul li{
+    margin-right: 0;
+    margin-bottom: 10px;
+}
+
+nav{ 
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+a {
+    color: aquamarine;
+    text-decoration: none;
+}
+
+ul{
+    position: relative;
+    left: 50px;
+    text-decoration: none;
+    color: pink;
+    text-decoration:null;
+}
+
+
+.brand{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:50px;
+    position: relative;
+    left: 125px;
+    color: blanchedalmond;
+    text-decoration: overline;
+    
+}
+
+menu li{
+    color: pink;
+}
+
+nav{
+    color: pink;
+    
+}
+
+
+body{
+    background-color:burlywood;
+    background: url(../Imagenes/GettyImages-160025722.webp)no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+footer{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    color: pink;
+    position: relative;
+    font-style: italic;
+    text-align: center;
+    top: 10px;
+
+}
+
+  #clock-container {
+    background-color: pink; /* color de fondo dorado */
+    padding: 2px; /* espacio alrededor del reloj */
+    border-radius: 800px; /* bordes redondeados */
+    box-shadow: 10px 2px 10px rgba(0, 0, 0, 0.3); /* sombra */
+    text-align: center; /* alineación centrada para el reloj */
+    width: 110px;
+  }
+
+
+  #clock {
+    font-size: 25px; /* Tamaño de fuente más grande */
+    font-family: "Arial", sans-serif; /* Cambiar la familia de fuente a una más elegante */
+    color: #333; /* Cambiar el color del reloj */
+
+  }
+
